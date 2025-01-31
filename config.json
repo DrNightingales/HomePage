@@ -92,12 +92,22 @@
             {
               "name": "Qwen2.5 Chat",
               "url": "https://chat.qwenlm.ai/",
-              "favicon": "https://chat.qwenlm.ai/favicon.ico"
+              "favicon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://chat.qwenlm.ai&size=64"
             },
             {
               "name": "ChatGPT",
               "url": "https://chatgpt.com/",
               "favicon": "https://www.google.com/s2/favicons?domain=chatgpt.com"
+            }
+          ]
+        },
+        {
+          "title": "Useful stuff",
+          "links": [
+            {
+              "name": "Cheatsheets",
+              "url": "https://github.com/sk3pp3r/cheat-sheet-pdf/blob/master/pdf/AI_ML.pdf",
+              "favicon": "https://github.com/favicon.ico"
             }
           ]
         }
@@ -118,9 +128,34 @@
               "favicon": "https://www.google.com/s2/favicons?domain=codeforces.com"
             },
             {
-              "name": "New Link",
-              "url": "",
+              "name": "Leetcode",
+              "url": "https://leetcode.com/",
+              "favicon": "https://www.google.com/s2/favicons?domain=leetcode.com"
+            },
+            {
+              "name": "\u0428\u043a\u043e\u043b\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u0430",
+              "url": "https://acmp.ru/",
+              "favicon": "https://acmp.ru/images/favicon.ico"
+            },
+            {
+              "name": "Timus OJ",
+              "url": "https://acm.timus.ru/",
+              "favicon": "https://acm.timus.ru/favicon.ico"
+            },
+            {
+              "name": "CSES",
+              "url": "https://cses.fi/",
+              "favicon": "https://www.google.com/s2/favicons?domain=cses.fi"
+            },
+            {
+              "name": "e-maxx",
+              "url": "https://e-maxx.ru/",
               "favicon": ""
+            },
+            {
+              "name": "Algos for CP",
+              "url": "https://cp-algorithms.com/",
+              "favicon": "https://cp-algorithms.com/favicon.ico"
             }
           ]
         }
