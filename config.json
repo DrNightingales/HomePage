@@ -1,99 +1,130 @@
 {
-    "columns": [
+  "columns": [
+    {
+      "sections": [
         {
-            "sections": [
-                {
-                    "title": "Development",
-                    "links": [
-                        {
-                            "name": "GitHub",
-                            "url": "https://github.com"
-                        },
-                        {
-                            "name": "Stack Overflow",
-                            "url": "https://stackoverflow.com"
-                        },
-                        {
-                            "name": "MagnumDB",
-                            "url": "https://www.magnumdb.com/"
-                        }
-                    ]
-                },
-                {
-                    "title": "CryptoPro (LAN Only)",
-                    "links": [
-                        {
-                            "name": "RTWEB",
-                            "url": "http://rtweb/"
-                        },
-                        {
-                            "name": "LiveGrep",
-                            "url": "http://livegrep.cp.ru/search/"
-                        },
-                        {
-                            "name": "podman",
-                            "url": "http://nbuild-podman.cp.ru/"
-                        },
-                        {
-                            "name": "Docker",
-                            "url": "http://mini-docker.cp.ru/"
-                        },
-                        {
-                            "name": "Jira",
-                            "url": "https://jira.cp.ru/secure/Dashboard.jspa"
-                        },
-                        {
-                            "name": "Jenkins",
-                            "url": "https://jenkins.cp.ru/"
-                        },
-                        {
-                            "name": "CP Wiki",
-                            "url": "http://wiki-web.cp.ru/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
-                        },
-                        {
-                            "name": "ASN.1 Decoder",
-                            "url": "http://rtlog.cp.ru/rtests/pub/lapo.it/index.html"
-                        }
-                    ]
-                }
-            ]
+          "title": "Development",
+          "links": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com",
+              "favicon": "https://github.com/favicon.ico"
+            },
+            {
+              "name": "Stack Overflow",
+              "url": "https://stackoverflow.com",
+              "favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+            },
+            {
+              "name": "MagnumDB",
+              "url": "https://www.magnumdb.com/",
+              "favicon": "https://www.magnumdb.com/favicon.ico"
+            }
+          ]
         },
         {
-            "sections": [
-                {
-                    "title": "AI Tools",
-                    "links": [
-                        {
-                            "name": "DeepSeek",
-                            "url": "https://chat.deepseek.com/"
-                        },
-                        {
-                            "name": "Qwen2.5-1M (HugginFace)",
-                            "url": "https://huggingface.co/spaces/Qwen/Qwen2.5-1M-Demo"
-                        },
-                        {
-                            "name": "Qwen2.5 Chat",
-                            "url": "https://chat.qwenlm.ai/"
-                        },
-                        {
-                            "name": "ChatGPT",
-                            "url": "https://chatgpt.com/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "sections": [
-                {
-                    "title": "Math",
-                    "links": []
-                },
-                {
-                    "title": "Algorithms",
-                    "links": []
-                }
-            ]
+          "title": "CryptoPro (LAN Only)",
+          "links": [
+            {
+              "name": "RTWEB",
+              "url": "http://rtweb/",
+              "favicon": "http://rtweb/favicon.ico"
+            },
+            {
+              "name": "LiveGrep",
+              "url": "http://livegrep.cp.ru/search/",
+              "favicon": "http://livegrep.cp.ru/assets/img/favicon.ico?v=f28c24b0ed0151efbde4a96066f393bd61982b84d730bf36845127dff5f5bacc"
+            },
+            {
+              "name": "podman",
+              "url": "http://nbuild-podman.cp.ru/",
+              "favicon": "http://nbuild-podman.cp.ru/static/favicon.png"
+            },
+            {
+              "name": "Docker",
+              "url": "http://mini-docker.cp.ru/",
+              "favicon": "http://mini-docker.cp.ru/static/favicon.png"
+            },
+            {
+              "name": "Jira",
+              "url": "https://jira.cp.ru/secure/Dashboard.jspa",
+              "favicon": "https://jira.cp.ru/s/-v80ket/78001/b6b48b2829824b869586ac216d119363/_/favicon.ico"
+            },
+            {
+              "name": "Jenkins",
+              "url": "https://jenkins.cp.ru/",
+              "favicon": "https://jenkins.cp.ru/static/e1702e49/favicon.ico"
+            },
+            {
+              "name": "CP Wiki",
+              "url": "http://wiki-web.cp.ru/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0",
+              "favicon": "http://wiki-web.cp.ru/resources/assets/favicon_clean.ico"
+            },
+            {
+              "name": "ASN.1 Decoder",
+              "url": "http://rtlog.cp.ru/rtests/pub/lapo.it/index.html",
+              "favicon": "http://rtlog.cp.ru/rtests/pub/lapo.it/favicon.svg"
+            },
+            {
+              "name": "Internal Docs",
+              "url": "http://corporate:82/cryptopro/documentation/cpdn/default.asp",
+              "favicon": "https://www.google.com/s2/favicons?domain=corporate:82"
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": "AI Tools",
+          "links": [
+            {
+              "name": "DeepSeek",
+              "url": "https://chat.deepseek.com/",
+              "favicon": "https://www.google.com/s2/favicons?domain=chat.deepseek.com"
+            },
+            {
+              "name": "Qwen2.5-1M (HugginFace)",
+              "url": "https://huggingface.co/spaces/Qwen/Qwen2.5-1M-Demo",
+              "favicon": "https://huggingface.co/favicon.ico"
+            },
+            {
+              "name": "Qwen2.5 Chat",
+              "url": "https://chat.qwenlm.ai/",
+              "favicon": "https://chat.qwenlm.ai/favicon.ico"
+            },
+            {
+              "name": "ChatGPT",
+              "url": "https://chatgpt.com/",
+              "favicon": "https://www.google.com/s2/favicons?domain=chatgpt.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "title": "Math",
+          "links": []
+        },
+        {
+          "title": "Algorithms",
+          "links": [
+            {
+              "name": "CodeForces",
+              "url": "https://codeforces.com/",
+              "favicon": "https://www.google.com/s2/favicons?domain=codeforces.com"
+            },
+            {
+              "name": "New Link",
+              "url": "",
+              "favicon": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
